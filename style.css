@@ -1,0 +1,20 @@
+html{
+    background-color: black;
+    color: white;
+}
+img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 5px;
+}
+div{
+    font-size: 25px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
